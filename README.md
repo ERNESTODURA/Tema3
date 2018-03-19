@@ -1,2 +1,0 @@
-# EMPRESABASICA
-Empresa Básica
